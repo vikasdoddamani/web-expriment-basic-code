@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1>STUDENT DISCRIPTION</h1>
+</head>     
+<students>
+    <student>
+        <usn>USN:2vd16cs012</usn>
+        <Name>NAME:Divya</Name>
+        <College>COLLEGE:vdit haliyal</College>
+        <branch>BRANCH:computer science</branch>
+        <Year>YEAR:2016</Year>
+        <e-mail>E_MAIL:divya@gmail.com</e-mail>
+    </student>
+    <student>
+        <usn>USN:2vd15cs013</usn>
+        <Name>NAME:kavan</Name>
+        <College>COLLEGE:KLIT hubli</College>
+        <branch>BRANCH:information science</branch>
+        <Year>YEAR:2015</Year>
+        <e-mail>E_MAIL:kavan@gmail.com</e-mail>
+    </student>
+    <student>
+        <usn>USN:2vd14cs020</usn>
+        <Name>NAME:varsha</Name>
+        <College>COLLEGE:vdit haliyal</College>
+        <branch>BRANCH:civil</branch>
+        <Year>YEAR:2014</Year>
+        <e-mail>E_MAIL:varsha@gmail.com</e-mail>
+    </student>
+    </students>    
+</html>
