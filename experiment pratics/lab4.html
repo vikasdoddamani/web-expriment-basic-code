@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+    <script type="text/javascript">
+        var str=prompt("Enter the input","");
+        if(!(isNaN(str)))
+            {
+                var num,rev=0,rem;
+                n=parseInt(str);
+                while(n!=0){
+                    rem=n%10;
+                    n=parseInt(n/10);
+                    rev=rev*10+rem;
+                }
+                alert("Reverse of " +str+ " is "+rev);
+            }
+        else{
+            str=str.toUpperCase();
+            for(var i=0;i<str.length;i++){
+                var chr=str.charAt(i);
+                if(chr == 'A'||chr == 'E'||chr == 'I'||chr == 'O'||chr == 'U') break;
+            }
+            if(i<str.length)
+                alert("The position of the left most vowel is "+(i+1));
+            else
+                alert("No vowel found in the eneterd string");
+        
+        }
+    </script>
+    </body>
+</html>
