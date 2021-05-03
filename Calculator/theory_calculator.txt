@@ -1,0 +1,18 @@
+steps to create calculator using HTML
+
+JAVASCRIPT:
+
+Step 1: create function using that display value
+
+Step 2: make function that evaluates 	the digit and return result
+
+Step 3: make function that clear the 	display
+
+Step 4: create style using css
+
+now create html page 
+
+Step 1: create table using table tag
+
+Step 2: create input box and button and 	assign value to each button
+			
